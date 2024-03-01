@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: staging
+    database: heroic-artifact-412919
+    schema: module_4_analytics
+
+    tables:
+      - name: green_tripdata
+      - name: yellow_tripdata
