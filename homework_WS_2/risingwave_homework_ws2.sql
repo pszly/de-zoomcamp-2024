@@ -27,7 +27,8 @@ select avg_dur as max_avg_dur
 ;
 
 -- A1.
-select * from avg_max
+select *
+  from avg_max
 ;
 
 
@@ -47,7 +48,8 @@ select count(1) as total_trip
 ;
 
 -- A2.
-select * from avg_cnt
+select *
+  from avg_cnt
 ;
 
 
